@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Introduction
 
-This an application that generates shipping label barcode
+This is an application that generates shipping label barcode
 
 View or interact with this application in this [CodeSandbox](https://codesandbox.io/s/sleepy-orla-vz01c4)
 
